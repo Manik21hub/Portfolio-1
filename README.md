@@ -5,7 +5,7 @@ Fast, responsive personal portfolio built with **HTML, CSS, and JavaScript**. In
 ---
 
 ## Live
-Add your URL here
+[Add your URL here](https://manik-portfolio-1.vercel.app/)
 
 ---
 
